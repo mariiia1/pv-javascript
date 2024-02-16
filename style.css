@@ -20,3 +20,7 @@ body {
     color: var(--branco);
     font-size: 19px;
 }
+
+.titulo-principal{
+    font-size: 33px;
+}
